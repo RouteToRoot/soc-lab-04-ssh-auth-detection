@@ -1,4 +1,4 @@
-# SOC Lab 01 — SSH Authentication Event Detection
+# SOC Lab 04 — SSH Authentication Event Detection
 
 ## 📑 Table of Contents
 1. [Executive Summary](#executive-summary)
