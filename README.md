@@ -170,14 +170,11 @@ These files document each major stage of the lab and validate all findings.
 ---
 
 ## Next Steps
+To continue developing detection and investigation skills:
 
-To continue developing SOC skills:
+- **SOC Lab 05 — Linux Log Analysis & Security Monitoring**
+- Investigate system logs for suspicious activity
+- Identify privilege escalation attempts and abnormal user behavior
+- Develop detection techniques based on authentication and system logs
 
-- **SOC Lab 02 — SSH Brute-Force Detection & SIEM Correlation**  
-- Authentication anomaly playbook development  
-- Linux `/var/log/auth.log` deep-dive  
-- Sudo escalation and privilege misuse detection  
-- Firewall log analysis (UFW, iptables)  
-- SIEM ingestion + detection engineering labs  
-
-This lab provides the foundation for more advanced SOC workflows.
+This builds the foundation for real SOC workflows involving host-based monitoring and incident investigation.
